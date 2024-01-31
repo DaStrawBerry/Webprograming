@@ -2,8 +2,8 @@
     background-image: url("https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcRAcEo4h4tZo2WX8I-OX2afzFeft0a5gWyNjkyz4FduVAUWCBxv2EjrQEpfRPQ_pd0jO3GXZUsr_1D1noRwFmk");
     background-repeat: no-repeat;
     background-attachment: fixed; 
-    /* background-size: 100% 100%; */
-    background-size: contain;
+    background-size: 100% 100%; 
+/*     background-size: contain; */
 }
 .face{
     width: 200px;  
